@@ -1,0 +1,5 @@
+Method		MinNode	MaxNode	Time (s)
+Naive	1	549	12.265891
+LU	1	549	0.914368
+Sparse Naive	1	549	0.811986
+Sparse LU	1	549	0.031680
